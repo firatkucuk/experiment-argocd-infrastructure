@@ -4,4 +4,4 @@ bases:
 - ../../base
 images:
   - name: ghcr.io/firatkucuk/experiment-argocd
-    newTag: 1b7db25f
+    newTag: 3ed0d48e
