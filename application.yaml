@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/firatkucuk/experiment-argocd-infrastructure.git
     targetRevision: HEAD
-    path: .
+    path: overlays/dev
   destination: 
     server: https://kubernetes.default.svc
     namespace: experiment-argocd
